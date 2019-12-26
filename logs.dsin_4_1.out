@@ -1,0 +1,34 @@
+22-09-2019 16:04:34 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): pypi.python.org:443
+22-09-2019 16:04:36 urllib3.connectionpool:DEBUG:https://pypi.python.org:443 "GET /pypi/deepctr/json HTTP/1.1" 301 122
+22-09-2019 16:05:10 tensorflow:WARNING:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+22-09-2019 20:42:02 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): pypi.python.org:443
+22-09-2019 20:42:04 urllib3.connectionpool:DEBUG:https://pypi.python.org:443 "GET /pypi/deepctr/json HTTP/1.1" 301 122
+22-09-2019 20:42:22 tensorflow:WARNING:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+22-09-2019 20:47:36 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): pypi.python.org:443
+22-09-2019 20:47:37 urllib3.connectionpool:DEBUG:https://pypi.python.org:443 "GET /pypi/deepctr/json HTTP/1.1" 301 122
+22-09-2019 20:50:17 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): pypi.python.org:443
+22-09-2019 20:50:20 urllib3.connectionpool:DEBUG:https://pypi.python.org:443 "GET /pypi/deepctr/json HTTP/1.1" 301 122
+22-09-2019 21:13:43 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): pypi.python.org:443
+22-09-2019 21:13:45 urllib3.connectionpool:DEBUG:https://pypi.python.org:443 "GET /pypi/deepctr/json HTTP/1.1" 301 122
+22-09-2019 21:16:14 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): pypi.python.org:443
+22-09-2019 21:16:15 urllib3.connectionpool:DEBUG:https://pypi.python.org:443 "GET /pypi/deepctr/json HTTP/1.1" 301 122
+22-09-2019 21:17:58 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): pypi.python.org:443
+22-09-2019 21:18:01 urllib3.connectionpool:DEBUG:https://pypi.python.org:443 "GET /pypi/deepctr/json HTTP/1.1" 301 122
+22-09-2019 21:18:15 tensorflow:WARNING:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+11-10-2019 16:13:44 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): pypi.python.org:443
+11-10-2019 16:13:47 urllib3.connectionpool:DEBUG:https://pypi.python.org:443 "GET /pypi/deepctr/json HTTP/1.1" 301 122
+11-10-2019 16:25:26 tensorflow:WARNING:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+11-10-2019 16:25:37 tensorflow:WARNING:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+11-10-2019 16:25:47 tensorflow:WARNING:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+11-10-2019 16:25:56 tensorflow:WARNING:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+11-10-2019 16:25:57 tensorflow:WARNING:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+11-10-2019 16:25:58 tensorflow:WARNING:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+11-10-2019 16:25:59 tensorflow:WARNING:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+11-10-2019 16:26:06 tensorflow:WARNING:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+11-10-2019 16:26:08 tensorflow:WARNING:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+11-10-2019 16:26:19 tensorflow:WARNING:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+11-10-2019 16:26:47 tensorflow:WARNING:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+11-10-2019 16:26:51 tensorflow:WARNING:Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+15-10-2019 15:38:24 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): pypi.python.org:443
+15-10-2019 15:38:26 urllib3.connectionpool:DEBUG:https://pypi.python.org:443 "GET /pypi/deepctr/json HTTP/1.1" 301 122
+15-10-2019 15:40:00 happybase.connection:DEBUG:Opening Thrift transport to 10.9.75.202:9090

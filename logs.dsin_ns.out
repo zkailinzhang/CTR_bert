@@ -1,0 +1,22 @@
+22-08-2019 11:11:23 root:INFO:########################### TRAIN ###########################
+22-08-2019 11:11:36 happybase.connection:DEBUG:Opening Thrift transport to 10.9.75.202:9090
+22-08-2019 11:12:13 root:INFO:*** HbaseDataIterUpdate except ***
+22-08-2019 11:12:16 root:DEBUG:execept e :Traceback (most recent call last):
+  File "/Users/zhangkailin/anaconda3/envs/tf12/lib/python3.6/site-packages/thriftpy2/transport/socket.py", line 96, in open
+    self.sock.connect(addr)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/zhangkailin/zklcode/Midas_Engine/update_model_3.dsin.ns.py", line 906, in produce
+    with HbaseDataIterUpdate("10.9.75.202", b'midas_offline_v1', filter_str, request,) as d:
+  File "/Users/zhangkailin/zklcode/Midas_Engine/data_iter.py", line 330, in __enter__
+    self.connection.open()
+  File "/Users/zhangkailin/anaconda3/envs/tf12/lib/python3.6/site-packages/happybase/connection.py", line 176, in open
+    self.transport.open()
+  File "thriftpy2/transport/buffered/cybuffered.pyx", line 34, in thriftpy2.transport.buffered.cybuffered.TCyBufferedTransport.open
+  File "/Users/zhangkailin/anaconda3/envs/tf12/lib/python3.6/site-packages/thriftpy2/transport/socket.py", line 105, in open
+    message="Could not connect to %s" % str(addr))
+thriftpy2.transport.TTransportException: TTransportException(type=1, message="Could not connect to ('10.9.75.202', 9090)")
+

@@ -1,0 +1,1 @@
+30 16 19,20,21 4 * /usr/bin/python3 -u /data/lishuang/ad_kafka/tmp_model.py >>/data/lishuang/ad_kafka/cron.out 2>&1
