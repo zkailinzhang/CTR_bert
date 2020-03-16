@@ -1,9 +1,10 @@
-# Midas_Engine
+# adviertisement_recommendation 
 
-#### 介绍
-midas项目推荐model代码
+#### 教育课程APP介绍
+- APP教育K12课程推荐，外部广告及内课程推荐
 
-#### 软件架构
-python+tf
+#### 模型
+- bGRU
+- BERT
 
-# adviertisement_recommendation
+
