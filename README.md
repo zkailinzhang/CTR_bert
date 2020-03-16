@@ -1,7 +1,7 @@
 # adviertisement_recommendation 
 
-#### 教育课程APP介绍
-- APP教育K12课程推荐，外部广告及内课程推荐
+#### 在线教育课程APP
+- APP教育K12课程推荐，外部广告及内课程推荐 CTR预估 模型上线
 
 #### 模型
 - base: bGRU,deepFM
